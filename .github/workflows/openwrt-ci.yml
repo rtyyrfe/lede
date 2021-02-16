@@ -54,7 +54,7 @@ jobs:
               cd openwrt-packages
               git clone https://github.com/kenzok8/openwrt-packages.git
           
-            - name: 涡轮增雕进程
+          - name: 涡轮增雕进程
             run: |
               cd package
               mkdir openwrt-packages
